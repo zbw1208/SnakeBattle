@@ -1,1 +1,1 @@
-毕业设计，学习自https://www.acwing.com/
+贪吃蛇联机对战游戏，学习自https://www.acwing.com/
